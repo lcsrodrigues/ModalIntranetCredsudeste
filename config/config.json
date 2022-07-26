@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "pop-up-credisudeste-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/popUpCredisudeste/PopUpCredisudesteApplicationCustomizer.js",
+          "manifest": "./src/extensions/popUpCredisudeste/PopUpCredisudesteApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "PopUpCredisudesteApplicationCustomizerStrings": "lib/extensions/popUpCredisudeste/loc/{locale}.js"
+  }
+}

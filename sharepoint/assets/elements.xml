@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="PopUpCredisudeste"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="dadc5109-4fb1-4e61-8782-3c7bfa2871e4"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>

@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "modal-intranet-credisudeste",
+    "libraryId": "1452726f-79b5-48d6-adb6-1906d7d60b7c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "modal-intranet-credisudeste",
+    "solutionShortDescription": "modal-intranet-credisudeste description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
